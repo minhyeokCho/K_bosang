@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_355338" data-name="사각형 355338" width="25" height="25" transform="translate(0 0)" fill="#2c5eed" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="마스크_그룹_7415" data-name="마스크 그룹 7415" clip-path="url(#clip-path)">
+    <path id="map-pin-2-fill" d="M20.984,19.972,13.55,27.405,6.117,19.972a10.513,10.513,0,1,1,14.867,0Zm-7.434-5.1a2.336,2.336,0,1,0-2.336-2.336A2.336,2.336,0,0,0,13.55,14.874Z" transform="translate(-0.831 -2.35)" fill="#2c5eed"/>
+  </g>
+</svg>
